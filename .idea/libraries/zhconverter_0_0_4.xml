@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zhconverter-0.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/zhconverter-0.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
